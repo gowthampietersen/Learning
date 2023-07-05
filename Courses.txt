@@ -1,0 +1,39 @@
+For Web Automation Testing :
+1.Selenium Tutorial - In Java and Python
+2. Cypress Automation - JavaScript
+3. Protractor Automation - Java Script
+4. WebDriverIO /Node.js - Java Script
+5.Selenium- Frameworks ( Java - TestNG & Cucumber)
+6. Selenium- Frameworks ( Python - PyTest & Robot)
+7. Selenium- Frameworks ( Java Script - Node.js)
+
+Mobile Automation Testing
+8. Appium Mobile Testing Tutorial
+
+For API Automation Testing :
+9. SoapUI API Automation with Groovy
+10. Rest API Automation with Java ( Rest Assured)
+11. Back end /API Testing with Python
+12 Postman Automation with JavaScript.
+
+For Performance Testing:
+13. Jmeter Tutorial
+
+For complete QA Process:
+14. Software Testing comprehensive Tutorial
+
+For Security and Data Base Testing :
+15. Web Security Testing tutorial
+16. SQL-Data Base Testing Tutorial
+
+For Devops/Test Architect -
+17. Azure Devops fundamentals with CI/CD
+18. Devops fundamentals with AWS &Jenkins & Ansible
+19. Java Design Patterns for Automation Framework Design
+
+White Box Testing
+20.Spring Boot Unit Testing (Mockito &MVC)
+21. Angular Unit Testing
+
+For Core Java-
+22. Complete Java for Automation Tutorial
